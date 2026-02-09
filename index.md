@@ -96,6 +96,7 @@ color by default via `NO_COLOR`.
 
 | Software | Language | Description | Date / Version Supported |
 |:-|:-|:-|:-|
+| [AnsiLogger](https://github.com/Luligu/node-ansi-logger) | TypeScript | AnsiLogger is a lightweight color logger for Node.js | [2026-02-06 / 3.2.0](https://github.com/Luligu/node-ansi-logger/blob/main/CHANGELOG.md) |
 | [ansis](https://github.com/webdiscus/ansis) | JavaScript | ANSI 256/truecolor styling of text in Node.js | [2021-12-28 / 1.2.2](https://github.com/webdiscus/ansis/releases/tag/v1.2.2) |
 | [asai](https://github.com/RedPRL/asai) | OCaml | Compiler diagnostics | [2023-11-03 / 0.3.0](https://github.com/RedPRL/asai/releases/tag/0.3.0) |
 | [AshConsoleGraphics](https://github.com/siljamdev/AshConsoleGraphics) | .NET | Graphics and interactive interfaces in the terminal | [2025-03-04 / 2.0.0](https://github.com/siljamdev/AshConsoleGraphics/commit/1f4b6fd72e51f70b0e0cdcd53830daeea80ed05e) |
@@ -271,6 +272,7 @@ color by default via `NO_COLOR`.
 | [Lintian](https://lintian.debian.org) | Friendly packaging advice for Debian contributors | [2021-12-12 / 2.114.87](https://salsa.debian.org/lintian/lintian/-/commit/275a48e628120100a38cbcd5a4f7f5b70c5ab47d) |
 | [lr](https://github.com/chneukirchen/lr) | File list generator | [2018-01-29 / 1.5.1](https://github.com/chneukirchen/lr/commit/8f0ac7c8abb4e0830d6cf72bbbd5f38c44b4266d) |
 | [lsd](https://github.com/Peltoche/lsd) | The next gen ls command | [2022-01-16 / 0.21.0](https://github.com/Peltoche/lsd/releases/tag/0.21.0) |
+| [Matterbridge](https://matterbridge.io) | Matterbridge | [2026-02-06 / 3.5.3](https://matterbridge.io/CHANGELOG.html) |
 | [mblaze](https://github.com/chneukirchen/mblaze) | Unix utilities to deal with Maildir | [2018-01-29 / 1.2](https://github.com/chneukirchen/mblaze/commit/4014f03afe6d624ba1c6bdde6551b4996ba31fe5) |
 | [meli](https://meli.delivery) | Terminal mail client in Rust | [2019-01-27 / 0.7.2](https://github.com/meli/meli/commit/6a7cae09882d43c0de8a84df3d66174949ede0e0) |
 | [Meltano](https://github.com/meltano/meltano) | Data ingestion, transformation, and management | [2022-11-08 / 2.9.0](https://github.com/meltano/meltano/releases/tag/v2.9.0) |
